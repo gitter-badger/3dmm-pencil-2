@@ -1,5 +1,7 @@
 3DMM Pencil++ 2
 ===============
+
+[![Join the chat at https://gitter.im/frank-weindel/3dmm-pencil-2](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/frank-weindel/3dmm-pencil-2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **3DMM Pencil++** is versatile (although somewhat esoteric) utility for examining and editing data files from the 1995 Microsoft Kids software title [3D Movie Maker](http://en.wikipedia.org/wiki/3D_Movie_Maker) (3DMM). The utility allows users to expand 3DMM by creating their own or editing existing movie elements. It is also useful for extracting music, sounds, textures, images, video frames, 3D models, and more.
 
 **3DMM Pencil++ 2** was to be a complete rewrite of 3DMM Pencil++ with features such as:
